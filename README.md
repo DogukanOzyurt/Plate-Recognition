@@ -1,7 +1,7 @@
-##License Plate Recognition using Image Processing and Keras OCR
+#License Plate Recognition using Image Processing and Keras OCR
 This project is developed for license plate detection and recognition from an image using various image processing techniques and the Keras OCR library.
 
-#Features
+Features
 Image Processing Techniques:
 
 Applies different image processing methods to improve the visibility of license plates in images.
